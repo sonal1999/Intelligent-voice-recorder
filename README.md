@@ -1,2 +1,2 @@
 # Intelligent-voice-recorder
-This is basically a voice recorder with some extra functions such as speech to text converter, reduction of file size.
+This is same as regular voice recorder but little more features. It records only human voice and totally ignores other voice. Once you run the application it keeps processing voice with incoming signals and when it comes to know that incoming signals are of human voice it store it in a file of specific format. As the application is continuous in nature it would have to terminate externally by human intervention.
