@@ -27,7 +27,7 @@ def get_audio():
 
 
 
-text = get_audio()     #taking speech and convering it into text and then prints that on console
+text = get_audio()     #taking speech and convering it into text and then print that on console
 
 
 if "hello" in text:
